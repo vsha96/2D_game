@@ -1,4 +1,4 @@
-![alt text](preview.png)
+![preview](preview.png)
 
 
 ### ENG
