@@ -1,6 +1,6 @@
-![preview](preview.png)
-
 # История
+
+![preview](preview.png)
 
 # Цель
 
