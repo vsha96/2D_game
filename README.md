@@ -1,17 +1,18 @@
-# Dependecies
+## ENG
+look README_eng.md
 
-# Installation
+# Установка
 
-1) Run the command in the directory:
-	cmake .
-2) Delete **-lrt** in the file CMakeFiles/main.dir/link.txt 
-3) Run the command in the directory:
-	make main
+1) Запустите команду в директории:
+`cmake .`
+2) Удалите `-lrt` в файле CMakeFiles/main.dir/link.txt 
+3) Запустите команду в директории:
+`make main`
 
-# Launch
+# Запуск
 
-In the directory:
-	bin/main
+Из директории:
+`bin/main`
 
 
 
