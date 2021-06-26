@@ -9,4 +9,4 @@
 # Launch
 
 In the directory:
-	bin/main
+	`bin/main`
