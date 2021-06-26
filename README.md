@@ -1,4 +1,7 @@
-## ENG
+![alt text](preview.png)
+
+
+### ENG
 look README_eng.md
 
 # Установка
