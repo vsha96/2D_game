@@ -1,5 +1,10 @@
 ![preview](preview.png)
 
+# История
+
+# Цель
+
+# Управление
 
 ### ENG
 look README_eng.md
