@@ -15,5 +15,5 @@ In the directory:
 
 Press *right mouse button* to capture/release mouse cursor  
 *W, A, S, D* - movement  
-*SPACE* - new game
+*SPACE* - new game  
 press *ESC* to exit
