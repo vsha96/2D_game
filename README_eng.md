@@ -10,3 +10,10 @@
 
 In the directory:
 	`bin/main`
+	
+# Controls
+
+Press *right mouse button* to capture/release mouse cursor  
+*W, A, S, D* - movement  
+*SPACE* - new game
+press *ESC* to exit
