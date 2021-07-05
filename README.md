@@ -1,3 +1,6 @@
+### ENG
+look README_eng.md
+
 # История
 
 ![preview](preview.png)
@@ -10,9 +13,6 @@
 *W, A, S, D* - движение  
 *SPACE* - новая игра  
 Нажмите *ESC*, чтобы выйти
-
-### ENG
-look README_eng.md
 
 # Установка
 
