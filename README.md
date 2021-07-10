@@ -1,3 +1,5 @@
+![preview](preview.gif)
+
 ### ENG
 look README_eng.md
 
